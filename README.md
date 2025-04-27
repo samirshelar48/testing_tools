@@ -11,7 +11,6 @@ This repository contains practical examples and configurations for browser testi
 - **Selenium** - Browser automation framework
 - **Cypress** - End-to-end testing framework
 - **Playwright** - Cross-browser automation library
-- **Jest** - JavaScript testing framework
 - **Puppeteer** - Headless Chrome Node API
 
 ## Features
